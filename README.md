@@ -1,1 +1,1 @@
-# perl-for-bioinformatics
+Bioinformatics-related snippets.
